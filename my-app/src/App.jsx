@@ -85,11 +85,6 @@ export default function App() {
             </div>
           </div>
 
-          
-          <div className="heroVisual" aria-label="Illustration">
-            <div className="heroImgPlaceholder" aria-hidden="true" />
-          </div>
-
         </div>
       </section>
 
